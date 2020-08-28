@@ -4,7 +4,7 @@ I'm a highly motivated and adaptable full stack developer in Syracuse, NY with a
 
 ## 📫 Contact me at...
 
-<a target="_" href="https://twitter.com/UpstateCoder91"><img src="../images/twitter.svg" alt="twitter-logo"/></a> <a target="_" href="https://www.linkedin.com/in/aarongillies/"><img src="../images/linkedIn.svg"  alt="ln-logo"/></a> <a target="_" href="https://www.aarongillies.dev"><img src="../images/web.svg" alt="web-logo"/></a>
+<a target="_" href="https://twitter.com/UpstateCoder91"><img src="/images/twitter.svg" alt="twitter-logo"/></a> <a target="_" href="https://www.linkedin.com/in/aarongillies/"><img src="/images/linkedIn.svg"  alt="ln-logo"/></a> <a target="_" href="https://www.aarongillies.dev"><img src="/images/web.svg" alt="web-logo"/></a>
 
 ## 🔭 Currently building and solving problems with...
 
