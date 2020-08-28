@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there, I'm Aaron! 👋
 
-<!--
-**Hail91/Hail91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a highly motivated and adaptable full stack developer in Syracuse, NY with a passion for creating solutions to difficult problems using the cutting edge tools of the industry. I love meeting new people and talking about anything and everything, so feel free to reach out to me through any of the channels below!
 
-Here are some ideas to get you started:
+## 📫 Contact me at...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a target="_" href="https://twitter.com/UpstateCoder91"><img src="../images/twitter.svg" alt="twitter-logo"/></a> <a target="_" href="https://www.linkedin.com/in/aarongillies/"><img src="../images/linkedIn.svg"  alt="ln-logo"/></a> <a target="_" href="https://www.aarongillies.dev"><img src="../images/web.svg" alt="web-logo"/></a>
+
+## 🔭 Currently building and solving problems with...
+
+JavaScript Node
+React Express
+CSS/SCSS SQL
+MaterialUI PostgreSQL
+Bootstrap Python
+
+## Things I'm currently learning...
+
+TypeScript Firebase
+Vue GraphQL
+
+## Profile Statistics
+
+[![Aaron's github stats](https://github-readme-stats.vercel.app/api?username=Hail91)](https://github.com/anuraghazra/github-readme-stats)
