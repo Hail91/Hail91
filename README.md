@@ -8,16 +8,20 @@ I'm a highly motivated and adaptable full stack developer in Syracuse, NY with a
 
 ## 🔭 Currently building and solving problems with...
 
-JavaScript Node
-React Express
-CSS/SCSS SQL
-MaterialUI PostgreSQL
-Bootstrap Python
+| Front-End  | Back-end   |
+| :--------- | :--------- |
+| JavaScript | Node       |
+| CSS/SCSS   | Express    |
+| React      | SQL        |
+| MaterialUI | PostgreSQL |
+| Bootstrap  | Python     |
 
 ## Things I'm currently learning...
 
-TypeScript Firebase
-Vue GraphQL
+| Front-End  | Back-end |
+| :--------- | :------- |
+| TypeScript | Firebase |
+| Vue        | GraphQL  |
 
 ## Profile Statistics
 
