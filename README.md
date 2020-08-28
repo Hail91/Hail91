@@ -21,4 +21,4 @@ Vue GraphQL
 
 ## Profile Statistics
 
-[![Aaron's github stats](https://github-readme-stats.vercel.app/api?username=Hail91)](https://github.com/anuraghazra/github-readme-stats)
+[![Aaron's github stats](https://github-readme-stats.vercel.app/api?username=Hail91?theme=radical?hide=stars)](https://github.com/anuraghazra/github-readme-stats)
