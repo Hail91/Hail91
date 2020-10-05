@@ -24,8 +24,8 @@ I'm a highly motivated and adaptable full stack developer in Syracuse, NY with a
 | :--------- | :------- |
 | TypeScript | Firebase |
 | Vue        | GraphQL  |
-             | PHP      |
-             | Laravel  |
+| Canvas     | PHP      |
+| N/A        | Laravel  |
 
 ## Profile Statistics
 
