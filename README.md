@@ -14,9 +14,11 @@ I'm a highly motivated and adaptable full stack developer in Syracuse, NY with a
 | :--------- | :--------- |
 | JavaScript | Node       |
 | CSS/SCSS   | Express    |
-| React      | SQL        |
+| React      | MySQL      |
 | MaterialUI | PostgreSQL |
 | Bootstrap  | Python     |
+| Tailwind   | PHP        |
+| Livewire   | Laravel    |
 
 ## Things I'm currently learning...
 
@@ -24,8 +26,6 @@ I'm a highly motivated and adaptable full stack developer in Syracuse, NY with a
 | :--------- | :------- |
 | TypeScript | Firebase |
 | Vue        | GraphQL  |
-| Canvas     | PHP      |
-| N/A        | Laravel  |
 
 ## Profile Statistics
 
