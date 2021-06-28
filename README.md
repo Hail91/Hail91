@@ -1,6 +1,6 @@
 ### Hi there, I'm Aaron! 👋
 
-I'm a highly motivated and adaptable full stack developer in Syracuse, NY with a passion for creating solutions to difficult problems using the cutting edge tools of the industry. I love meeting new people and talking about anything and everything, so feel free to reach out to me through any of the channels below!
+I'm a highly motivated and adaptable full stack developer in Albany, NY with a passion for creating solutions to difficult problems using the cutting edge tools of the industry. I love meeting new people and talking about anything and everything, so feel free to reach out to me through any of the channels below!
 
 ## 📫 Contact me at...
 
