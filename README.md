@@ -25,7 +25,8 @@ I'm a highly motivated and adaptable full stack developer in Albany, NY with a p
 | Front-End  | Back-end |
 | :--------- | :------- |
 | TypeScript | Firebase |
-| Vue        | GraphQL  |
+| VueJS      | GraphQL  |
+| ...:)      | Docker   |
 
 ## Profile Statistics
 
