@@ -1,6 +1,6 @@
 ### Hi there, I'm Aaron! 👋
 
-I'm a highly motivated and adaptable full stack developer in Albany, NY with a passion for creating solutions to difficult problems using the cutting edge tools of the industry. I love meeting new people and talking about anything and everything, so feel free to reach out to me through any of the channels below!
+I'm a highly motivated and adaptable Software Engineer in Albany, NY with a passion for creating solutions to difficult problems using the cutting edge tools of the industry. I love meeting new people and talking about anything and everything, so feel free to reach out to me through any of the channels below!
 
 ## 📫 Contact me at...
 
@@ -12,21 +12,20 @@ I'm a highly motivated and adaptable full stack developer in Albany, NY with a p
 
 | Front-End  | Back-end   |
 | :--------- | :--------- |
-| JavaScript | Node       |
-| CSS/SCSS   | Express    |
+| JavaScript | NodeJS     |
+| TypeScript | Express    |
 | React      | MySQL      |
-| MaterialUI | PostgreSQL |
-| Bootstrap  | Python     |
+| AntD       | PostgreSQL |
+| Vue        | Docker     |
 | Tailwind   | PHP        |
-| Livewire   | Laravel    |
+| CSS/SCSS   | Laravel    |
 
 ## Things I'm currently learning...
 
-| Front-End  | Back-end |
-| :--------- | :------- |
-| TypeScript | Firebase |
-| VueJS      | GraphQL  |
-| InertiaJS  | Docker   |
+| Front-End    | Back-end |
+| :----------- | :------- |
+| Vite         | AWS      |
+| React Native | GoLang   |
 
 ## Profile Statistics
 
